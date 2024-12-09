@@ -1,0 +1,30 @@
+{
+  "name": "building-rest-api",
+  "version": "1.0.0",
+  "description": "building a rest api using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run",
+    "start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhumitha-r26/Building-REST-API-using-NodeJS.git"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "madhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhumitha-r26/Building-REST-API-using-NodeJS/issues"
+  },
+  "homepage": "https://github.com/madhumitha-r26/Building-REST-API-using-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
